@@ -1,0 +1,104 @@
+
+.navbar{
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    
+}
+.navbar navbar-expand-lg navbar-light bg-light
+{
+    width: 100%;
+    text-align: center;
+}
+
+.card{
+
+    box-shadow: 10px 10px 5px grey;
+}
+.card-body{
+    background-color: floralwhite;
+}
+body{
+	font-size: 1.3rem;
+    background-color: whitesmoke;
+    overflow-x: hidden;
+}
+
+.main_content
+{
+    position: absolute;
+    top: 55px;
+    margin-left: 0%;
+    height: 90%;
+    width: 100%;
+    background: linear-gradient(#E6DADA,#274046);
+}
+.header1{
+    top: 50px;
+    align-content: center;
+    font-family: "Times New Roman", Times, serif;
+    margin-left: 15px;
+    font-weight: bolder;
+    font-style: oblique;
+}
+p{
+    margin-left: 15px;
+    font-family: "Times New Roman", Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer1{
+    top: 92%;
+    height: 8%;
+    width: 100%;
+    position: absolute;
+    background: linear-gradient(#000000,#2d3436);
+    color: white;
+
+}
+
+#footerp1{
+    position: absolute;
+    top:16px;
+    margin-left: 38%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+#footerp2{
+    position: absolute;
+    top:16px;
+    margin-left: 46%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.type1{
+    width: 30%;
+    position: absolute;
+}
+
+.type2
+{
+    width: 70%;
+    position: absolute;
+    margin-left: 40%;
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+#tr1
+{
+    background: rgba(80, 106, 131, 0.3);
+    opacity: 5.0;
+}
+
+#trodd
+{
+    background-color:grey
+}
+#treven
+{
+    background-color: #bee3ee;
+}
